@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@300;400;500;600;700&family=Maitree:wght@300;400;500;600;700&family=Poppins:wght@200;400&family=Roboto+Condensed:wght@400;700&family=Roboto+Mono:wght@100;200;300;400&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  background-color: #0D0D0D;
+  color: #eff0eb;
+  font-family: 'inter';
+}
+
+
